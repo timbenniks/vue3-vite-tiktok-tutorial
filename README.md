@@ -3,9 +3,17 @@
 ## How to run
 
 ```bash
-yarn i
-yarn dev
+$ yarn
+$ yarn dev
 
 # for production (don't do this)
-yarn build
+$ yarn build
+```
+
+## How to create a new vite project
+```bash
+$ yarn create vite-app <project-name>
+$ cd <project-name>
+$ yarn
+$ yarn dev
 ```
