@@ -6,7 +6,7 @@
 $ yarn
 $ yarn dev
 
-# for production (don't do this)
+# for production (don't do this just yet, its too bleeding edge...)
 $ yarn build
 ```
 
